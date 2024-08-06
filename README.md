@@ -2,7 +2,7 @@
 
 My name is Emir (or Meervix)! 👋👋👋
 
-I'm an Indonesian computer science student who are interested in Software Engineering, especially Backend Development. It's engaging for me to use logics and mathematics in order to solve various problems. I also like things that are related to Infrastructure and Cybersecurity. That's why I also do CTFs.
+I'm an Indonesian computer science student who are interested in Software Engineering, especially Backend Development. It's engaging for me to use logics and mathematics in order to solve various problems. I also like things that are related to Infrastructure and Cybersecurity. That's why I do CTFs.
 
 ## Projects
 - [Chefies](https://github.com/Chefies/): Application where we can discover creative healthy recipes from available ingredients. It features LLM-powered recipe suggestions and YOLOv8-powered ingredients image detection.
